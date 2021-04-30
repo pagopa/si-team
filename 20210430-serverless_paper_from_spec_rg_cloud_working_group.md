@@ -9,7 +9,7 @@ More specifically, the team comprises 8 researchers from universities and instit
 
 This work is a detailed and comprehensive evaluation of 89 real-world use-cases of serverless applications. The analysis included a set of 24 characteristics, grouped into 5 macro families (general, application, requirements, workload, and workflow).
 
-For each of these, this paper highlights the most relevant findings and offers insightful suggestions. So far, it's one of the most complete analysis we've seen in this field.
+For each of these, this paper highlights the most relevant findings and offers insightful suggestions. So far, it's one of the most complete analysis we've seen in this domain.
 
 Here an excerpt of some conclusions from the study:
 
